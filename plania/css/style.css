@@ -1,0 +1,151 @@
+body{
+font-family: arial;
+
+}
+
+
+.planiaImg img {
+width: 200px;
+height: 55px;
+border: 1px solid black;
+position: relative;
+left: 0px;
+
+margin: 10px;
+}
+
+.header{
+  margin: 0 auto;
+  border: 1px solid #000;
+  width: 1250px;
+  height: 75px;
+  background-color: rgba(194, 136, 7, 0.96);
+}
+
+
+.main {
+background-color: grey;
+width: inherit;
+height: 1450px;
+border: 1px solid #000;
+}
+
+.bs {
+  float: right;
+  margin-right: 20px;
+  margin-top: 25px;
+  border: 1px solid #000;
+  width: 500px;
+  height: 30px;
+  background-color: red; }
+
+.select {
+  float: right;
+  border: 1px solid #000;
+  width: 100px;
+  height: 25px;
+  background-color: lightblue;
+}
+
+.blog {
+  border: 1px solid #000;
+  width: 300px;
+  height: 25px;
+  background-color: aqua;
+}
+
+.menu{
+background-color: green;
+width: auto;
+height: 60px;
+border: 1px solid #000;
+}
+
+.content {
+  border: 1px solid #000;
+  width: 88%;
+  height:1150px;
+  margin: auto;
+  background-color: yellow;
+
+}
+
+.slide {
+  background-color: #fff;
+  border: 1px solid #000;
+  width: 800px;
+  height: 500px;
+  margin-left: 15%;
+  margin-top: 40px;
+  font-size: 1000%;
+  text-align: center;
+
+}
+.client {
+margin-left: 15%;
+width: 800px;
+height: 250px;
+background-color: #0ecdc8;
+border: 1px solid #000;
+
+}
+
+.client div {
+width: 100px;
+height: 100px;
+background-color: #810e62;
+border: 1px solid #000;
+display: block;
+float: left;
+margin-left: 3.3%;
+margin-top: 8.5%;
+font-size: 100%;
+font-family: sans-serif;
+text-align: center;
+}
+.logo{
+margin-left: 15%;
+width: 800px;
+height: 250px;
+background-color: #1630e3;
+border: 1px solid #000;
+}
+.logo div{
+  width: 220px;
+  height: 220px;
+  background-color: #01f9db ;
+  border: 1px solid black;
+  border-radius: 50%;
+  display: inline-block;
+  margin-left: 3.8%;
+  margin-top: 1.5%;
+  font-size: 100%;
+  font-family: sans-serif;
+  text-align: center;
+}
+.footer {
+width: 100%;
+height: 120px;
+background-color: #11d919;
+border:1px solid black;
+text-align: center;
+}
+
+.link {
+  width: 98%;
+  height: 50px;
+  background-color: #124919;
+  border:1px solid black;
+  margin: 0 auto;
+  margin-top: 0.4%;
+}
+
+.rights {
+    width: 98%;
+    height: 40px;
+    background-color: #124919;
+    border:1px solid black;
+    margin: 0 auto;
+    margin-bottom: 0.4%;
+    margin-top: -4%;
+}
